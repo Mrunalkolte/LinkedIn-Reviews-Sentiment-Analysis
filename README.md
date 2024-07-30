@@ -1,4 +1,4 @@
-LinkedIn Reviews Sentiment Analysis
+LinkedIn Reviews Sentiment Analysis -
 This project aims to perform sentiment analysis on LinkedIn reviews to understand user sentiments and derive actionable insights. 
 The analysis includes an extensive exploratory data analysis (EDA) phase to uncover patterns and trends in the data.
 The primary tools used for this analysis are Pandas and NumPy for data manipulation, and Matplotlib and Seaborn for visualization.
